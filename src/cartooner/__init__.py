@@ -1,1 +1,0 @@
-from .cartooner import cartoonize
